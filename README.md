@@ -11,4 +11,5 @@ pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative lib
 It supports three TTS engines :
 sapi5 – SAPI5 on Windows
 nsss – NSSpeechSynthesizer on Mac OS X
-espeak – eSpeak on every other platform
+espeak – eSpeak on every other platform.
+Speech Recognition is an important feature in several applications used such as home automation, artificial intelligence, etc. This article aims to provide an introduction on how to make use of the SpeechRecognition and pyttsx3 library of Python.
